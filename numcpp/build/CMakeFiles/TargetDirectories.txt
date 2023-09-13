@@ -1,0 +1,3 @@
+/Volumes/software/programming/c++/numcpp/numcpp/build/CMakeFiles/main.dir
+/Volumes/software/programming/c++/numcpp/numcpp/build/CMakeFiles/edit_cache.dir
+/Volumes/software/programming/c++/numcpp/numcpp/build/CMakeFiles/rebuild_cache.dir
